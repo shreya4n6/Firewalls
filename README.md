@@ -18,7 +18,7 @@ When we want to download a file say 200MB from the internet. We wont receive the
 
 ## TYPES OF FIREWALL:
 
-### PACKET FILTERING FIREWALL: 
+### :anger: PACKET FILTERING FIREWALL: 
 It checks IP header and TCP header attached to the downloaded file. In other words it will check the IP address and port number. 
 Works on network and transport layers.
 IP address or even the full network can be blocked
@@ -26,11 +26,11 @@ Can block a service (http,ftp etc)
 
 The rules of Access Control List are used for data packet verification. If everything is okay it is allowed to pass through the firewall and then to my laptop. Packet Filtering Firewalls are present in internet routers and its less secure. Its limitation is the it does not check the payload or the data packet. A hacker can send malicious data here.
 
-### APPLICATION/PROXY FIREWALL :
+### :anger: APPLICATION/PROXY FIREWALL :
 
 Proxy firewall does not let the internet know which laptop wants the requested website. It hides us from attackers on the internet. It hides the IP address of the sender and forwards the request to the internet. It also checks the payload but it is slower than packet filtering firewalls.When the user client process sends a message, the proxy firewall runs a server process to receive the request. The server opens the packet at the application level and confirms whether the request is legitimate or not. If it is, the server acts as a client process and sends the message to the real server, otherwise the message is dropped. In this way, the requests of the external users are filtered based on the contents at the application layer
 
-### HYBRID FIREWALL :
+### :anger: HYBRID FIREWALL :
 
 It combines the application firewall and packet filtering firewall in series. It provides the best security as compared to the other two firewalls. It protects user’s servers and workstations from malicious problems and unauthorized access.
 
