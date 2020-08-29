@@ -2,7 +2,7 @@
 
 ## FIREWALL :
 
-:sun_with_face: It is a device that monitors and controls incoming and outgoing traffics based on some predefined rules<br>.
+:sun_with_face: It is a device that monitors and controls incoming and outgoing traffics based on some predefined rules<br>
 :sun_with_face: It acts like a barrier <br>
 
  ## HOST BASED AND NETWORK BASED FIREWALL:
