@@ -39,7 +39,7 @@ INTRUSION DETECTION SYSTEM(IDS) AND INTRUSION PREVENTION SYSTEM(IPS)
 
 IDS and IPS both work together in order to detect intruder activity on our network and once intruder activity is found, appropriate steps are taken in order to stop the activity. So IDS and IPS can either be a hardware or combination of hardware and software which we can deploy on our network and web app in order to detect intruder activity. 
 
-### INTRUSION DETECTION SYSTEM
+### :fireworks: INTRUSION DETECTION SYSTEM
 
 It's basically a passive system that scans incoming traffic. Once the IDS identified dangerous or suspicious traffic it sends alerts but sends the action to IPS
 
@@ -54,20 +54,15 @@ It does not take action on their own. The network administrator takes the action
 :umbrella: Perimeter Intrusion Detection System (PIDS)<br>
 :umbrella: VM based Intrusion System<br>
 
-### INTRUSION PREVENTION SYSTEM
+### :fireworks: INTRUSION PREVENTION SYSTEM
 
 This is a system which can prevent or protect the system or network from threats, virus and suspicious activities and can take action against these activities. 
 It is a control system or tool
 It takes the action automatically i.e, accepts or rejects packets based on the rule set. It is like a firewall.
 
-
-
-
-
-
 To see the default firewall rules setup from you terminal using:
 
-Iptables -L 
+### Iptables -L 
 
 
 
