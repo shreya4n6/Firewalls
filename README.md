@@ -2,8 +2,8 @@
 
 ## FIREWALL :
 
-:umbrella: It is a device that monitors and controls incoming and outgoing traffics based on some predefined rules<br>.
-:umbrella: It acts like a barrier .<br>
+:sun_with_face: It is a device that monitors and controls incoming and outgoing traffics based on some predefined rules<br>.
+:sun_with_face: It acts like a barrier <br>
 
  ## HOST BASED AND NETWORK BASED FIREWALL:
 
@@ -49,10 +49,10 @@ It does not take action on their own. The network administrator takes the action
 
 ## There are four types of IDS:
 
-:umbrella: Network Intrusion Detection System (NIDS)
-:umbrella: Host Based Intrusion Detection System (HBID)
-:umbrella: Perimeter Intrusion Detection System (PIDS)
-:umbrella: VM based Intrusion System
+:umbrella: Network Intrusion Detection System (NIDS)<br>
+:umbrella: Host Based Intrusion Detection System (HBID)<br>
+:umbrella: Perimeter Intrusion Detection System (PIDS)<br>
+:umbrella: VM based Intrusion System<br>
 
 ### INTRUSION PREVENTION SYSTEM
 
