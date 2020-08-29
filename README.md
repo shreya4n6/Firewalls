@@ -2,8 +2,8 @@
 
 ## FIREWALL :
 
-:umbrella: It is a device that monitors and controls incoming and outgoing traffics based on some predefined rules.
-:umbrella: It acts like a barrier .
+:umbrella: It is a device that monitors and controls incoming and outgoing traffics based on some predefined rules<br>.
+:umbrella: It acts like a barrier .<br>
 
  ## HOST BASED AND NETWORK BASED FIREWALL:
 
